@@ -10,6 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 My projects are;
 - BlackOS; a minimal Linux from Scratch OS for ARMv8.
+- Minimal_packages; a set of programs (for pacman package manager) with the less features as possible to be minimalists and in some cases more secures.
 - ProyectoInvierno; an environment for deploy and manage apps in containers.
 - LinuxFromScratch-Sources; a repositorie with a huge range of source codes needed for deploy and build an Linux from Scratch. In this project I'm not the owner of the programs, I just do a compilation in a central repositorie because of that many of the programs are as git's submodules.
 
