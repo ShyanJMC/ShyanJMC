@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 My projects are;
-- Kråke; a minimal OS in Rust.
+- RavnOS; a minimal OS in Rust.
 - Minimal_packages; a set of programs (for pacman package manager) with the less features as possible to be minimalists and in some cases more secures.
 
 ## Volunteer
