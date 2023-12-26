@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Rust and cyber security (you and me know that you never stop learning)
 - 📫 How to reach me at; shyanjmc@protonmail.com , joaquincrespo96@gmail.com and Linkedin https://ar.linkedin.com/in/joaquin-mcrespo
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shyanjmc&show_icons=true&theme=tokyonight)](https://github.com/ShyanJMC)
+
 <!---
 ShyanJMC/ShyanJMC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
